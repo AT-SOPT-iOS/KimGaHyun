@@ -14,7 +14,7 @@
 		8BDD307B2DE552F900100E56 /* Exceptions for "Refactoring_test" folder in "Refactoring_test" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Application/Info.plist,
 			);
 			target = 8BDD30682DE552F700100E56 /* Refactoring_test */;
 		};
